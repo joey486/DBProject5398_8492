@@ -1,0 +1,151 @@
+Vegetarian,Quantity,Name,Storage_space,Price,Product_ID,Nut_free,Gluten_free,Vegan,Brand,Shelf_life,Type,Storage_ID,Person_ID
+0,198,Bitters,34,954.16,71390,0,1,0,Red Bull,2852,Non-alcoholic Spirits,85092,344255784
+0,174,Salt Rim Mix,32,243.87,40080,1,0,1,Captain Morgan,1861,Glassware,96292,357111690
+1,180,Coffee Liqueur,26,125.12,52122,1,0,0,OTHER,3383,Liqueurs,52228,134538063
+1,111,Mint Leaves,46,33.25,84729,0,0,1,OTHER,3381,Bar Tools & Accessories,36944,191277798
+1,78,Grenadine,30,134.85,23660,1,1,1,Captain Morgan,1808,Spirits,46352,384280658
+1,87,Vodka,32,855.61,44284,1,0,0,OTHER,1342,Non-alcoholic Spirits,24168,235548310
+1,58,Sugar Syrup,19,1135.47,66506,1,1,1,Jack Daniel's,814,Energy Drinks,75764,287036170
+0,132,Ginger Beer,31,37.95,17498,1,0,0,Malibu,2847,Garnishes,61707,262886579
+0,132,OTHER,24,247.34,34221,1,1,0,Chivas Regal,19,Bitters,16900,164930451
+1,147,Salt Rim Mix,29,344.64,99855,1,0,0,Jack Daniel's,2742,Energy Drinks,86154,199024537
+1,161,Bitter Aperitif,15,449.51,53109,0,1,0,Bombay Sapphire,1825,Juices,22920,182511761
+0,44,Tonic Water,23,974.97,88558,1,0,1,Patrón,208,Non-alcoholic Spirits,71611,209830563
+1,131,OTHER,36,770.45,13391,0,0,1,Sprite,531,Mixers,87056,158423420
+0,34,Bitter Aperitif,25,741.35,17482,1,1,1,Martini,1793,Beers,85201,242612448
+1,170,Dry Vermouth,38,1024.99,56463,0,1,1,San Pellegrino,273,Beers,29880,314730311
+1,87,Orange Bitters,2,1190.52,38271,0,1,1,Tanqueray,2752,Juices,41616,396626762
+1,136,Sweet Vermouth,26,166.91,36480,0,1,0,Monin,735,Bar Tools & Accessories,78434,154750379
+0,183,Mint Leaves,31,137.44,75629,1,0,0,Malibu,1578,Energy Drinks,14562,266849843
+1,75,Grenadine,47,380.56,71774,0,1,1,Disaronno,187,Wines,30071,234632581
+0,141,Bitter Aperitif,36,509.94,76462,0,0,1,OTHER,1826,Non-alcoholic Spirits,87587,343707533
+0,148,Triple Sec,21,490.08,25922,1,0,0,Hendrick's,3527,Liqueurs,69189,295040925
+1,182,OTHER,30,429.11,86308,1,0,1,OTHER,2478,Liqueurs,51906,323334514
+1,71,Fruit Syrup,16,892.51,85368,1,1,1,Martini,3557,Juices,30897,261802588
+1,59,Sweet Vermouth,24,416.31,80738,1,1,0,Coca-Cola,1959,Syrups & Sweeteners,13249,364044529
+1,146,Triple Sec,41,634.36,82118,1,1,1,Smirnoff,990,Cocktail Ingredients,25129,234412360
+0,31,Tequila,36,136.68,49763,0,0,0,OTHER,2434,Salt & Rimming Mixes,60946,310205902
+1,73,Bitter Aperitif,41,654.9,18621,0,0,1,Perrier,1054,Non-alcoholic Spirits,59999,183739508
+1,23,Herbal Liqueur,27,396.86,49570,1,0,0,Jack Daniel's,3337,Energy Drinks,67972,277808489
+0,45,Triple Sec,6,1219.18,15662,0,0,1,OTHER,1302,Syrups & Sweeteners,29611,174439482
+0,113,Mint Leaves,44,208.32,27050,1,1,1,Johnnie Walker,1236,Garnishes,43247,239007614
+1,118,Lemon-Lime Soda,15,748.26,33186,0,1,1,Kahlúa,2098,Bar Tools & Accessories,35089,392038488
+1,152,Orange Bitters,20,6.41,96233,0,1,0,Don Julio,1165,Mixers,55648,331528352
+1,51,Ginger Beer,50,632.47,82328,0,1,0,Sprite,1881,Salt & Rimming Mixes,64418,145052530
+0,200,Bourbon,24,367.47,14954,0,1,0,Aperol,2459,Spirits,62349,277169288
+1,198,Lemon-Lime Soda,44,1298.3,92506,1,1,0,Jack Daniel's,2371,Mixers,95922,206419083
+0,52,Tonic Water,10,614.05,92493,0,0,1,Grand Marnier,2115,Non-alcoholic Spirits,10639,235284777
+0,156,Sugar Syrup,10,6.42,62469,0,1,1,Chivas Regal,1746,Energy Drinks,76478,334857157
+1,35,Salt Rim Mix,18,451.39,92449,0,1,1,Grey Goose,851,Bitters,64759,265467662
+0,34,Vodka,38,962.21,65896,1,1,1,Cointreau,1948,Vermouths & Fortified Wines,67626,294068229
+1,147,Herbal Liqueur,9,794.72,23957,1,1,0,Perrier,1074,Bar Tools & Accessories,59374,201006163
+1,15,Grenadine,15,969.97,12368,0,1,0,Sprite,2064,Glassware,85558,361420225
+0,142,Coconut Rum,34,983.05,12077,1,1,0,Hendrick's,2145,Beers,58421,249448370
+0,198,Ginger Beer,50,951.23,42398,1,0,1,Patrón,3426,Cocktail Ingredients,38620,205092510
+0,131,Lemon-Lime Soda,15,217.19,12905,0,0,1,Absolut,1100,Soft Drinks,12069,397162093
+1,83,Tonic Water,9,636.66,49367,0,0,1,Southern Comfort,1239,Bitters,11585,269641380
+1,182,Orange Liqueur,39,817.92,23956,1,0,0,OTHER,1866,Ice & Chilling Products,44474,291742137
+0,125,Sparkling Water,36,659.49,60822,1,0,0,Chivas Regal,2845,Pre-mixed Cocktails,34987,395697573
+1,42,Sweet Vermouth,18,1014.92,28054,0,1,0,Disaronno,3569,Bitters,88756,254565029
+0,1,Orange Liqueur,34,842.33,66869,0,1,1,San Pellegrino,1145,Soft Drinks,60426,328692252
+0,132,OTHER,24,905.5,77086,1,0,1,Fever-Tree,2493,Bar Tools & Accessories,53728,136385236
+0,200,Sparkling Water,17,234.2,15711,1,0,0,Absolut,216,Pre-mixed Cocktails,73514,257336852
+0,129,Lime Juice,26,1280.59,58274,1,0,0,Smirnoff,1185,Beers,73853,255258473
+1,34,Blended Scotch,50,567.52,66908,0,1,1,Southern Comfort,821,Non-alcoholic Spirits,92165,104600879
+0,113,Bitter Aperitif,48,164.1,91480,1,0,0,Perrier,1789,Bitters,65449,274020113
+1,121,Coffee Liqueur,45,591.66,75971,0,0,0,Perrier,2806,Vermouths & Fortified Wines,38698,326788342
+1,47,Grenadine,16,1154.8,85141,0,1,0,Kahlúa,1960,Glassware,66024,394300130
+0,105,Irish Whiskey,13,456.08,37928,0,1,0,Southern Comfort,2077,Cocktail Ingredients,70672,246991249
+0,130,Soda,19,1291.74,30824,0,0,0,Captain Morgan,3303,Garnishes,37909,300585777
+0,28,Bitter Aperitif,12,12,26848,0,0,0,Coca-Cola,3342,Pre-mixed Cocktails,78850,325185345
+1,97,Dry Vermouth,39,540.1,95707,0,0,0,Midori,1081,Salt & Rimming Mixes,99144,317499671
+1,22,Orange Bitters,7,517.26,11837,0,0,0,Baileys,1949,Mineral & Sparkling Waters,58012,316280797
+1,84,Energy Drink,45,874.64,52008,0,1,1,Midori,985,Syrups & Sweeteners,84490,302917331
+0,178,Soda,13,467.33,26469,0,0,1,Baileys,1027,Ice & Chilling Products,61198,371683508
+1,190,OTHER,1,522.82,30655,0,1,1,Bombay Sapphire,2360,Glassware,98141,126477015
+1,52,Sparkling Water,17,1005.2,91936,1,1,0,Jameson,3438,Ice & Chilling Products,16471,104755690
+0,167,OTHER,24,395.61,14301,0,0,0,Smirnoff,3056,Glassware,84407,135391741
+0,195,Sugar Syrup,25,995.41,28790,1,1,0,Tabasco,1677,Salt & Rimming Mixes,11210,191973237
+0,13,Añejo,18,367.54,46641,1,0,0,Aperol,199,Syrups & Sweeteners,91398,272229981
+1,99,Herbal Liqueur,31,1061.64,30999,0,0,0,Baileys,3231,Cocktail Ingredients,94631,304916157
+0,125,Tequila,37,1277.65,30046,1,1,1,Jack Daniel's,1871,Liqueurs,80630,247931133
+1,109,Sugar Syrup,18,1131.22,45906,1,0,0,Bacardi,3528,Pre-mixed Cocktails,90920,284131471
+0,85,Blended Scotch,25,88.9,38950,0,0,0,Grey Goose,2779,Pre-mixed Cocktails,92897,358907270
+0,14,Amaretto,35,689.19,38871,1,1,0,Captain Morgan,1835,Glassware,66010,230158557
+0,143,Dark Rum,42,247.81,86394,1,1,0,Jameson,2956,Ice & Chilling Products,78696,219640345
+1,48,Single Malt Scotch,12,279.57,28725,1,1,1,OTHER,1770,Ice & Chilling Products,76236,247550430
+1,67,Triple Sec,9,117.51,71197,0,0,1,Johnnie Walker,502,Mineral & Sparkling Waters,84244,298535118
+0,142,Reposado,12,1155.1,49394,0,1,1,Tabasco,847,Pre-mixed Cocktails,83362,292168829
+0,65,Salt Rim Mix,44,515.47,49964,1,0,1,Glenfiddich,1204,Beers,92355,321523361
+0,169,Blended Scotch,3,1290.47,37876,0,0,1,Bacardi,1823,Juices,65814,282916839
+1,125,Fruit Syrup,40,1206.57,11986,0,1,0,Absolut,1973,Cocktail Ingredients,73198,207470108
+0,108,Ginger Beer,18,132.55,20033,1,1,0,Grey Goose,3232,Garnishes,88946,291113865
+0,112,Melon Liqueur,17,705.89,51609,0,1,0,Southern Comfort,945,Salt & Rimming Mixes,70014,297960605
+0,157,Single Malt Scotch,41,792.24,92079,0,0,1,Tabasco,928,Wines,90423,248246817
+1,117,Orange Liqueur,14,76.18,20559,1,1,0,Perrier,157,Spirits,52463,167942647
+1,18,Lime Juice,12,815.18,58699,1,0,1,Bacardi,1372,Energy Drinks,42803,392654047
+1,21,Tonic Water,10,964.6,24661,1,0,1,Sprite,1596,Wines,68053,232460098
+0,5,OTHER,44,293.16,92444,1,1,0,Angostura,2115,Bitters,13584,198889004
+1,35,Dark Rum,37,587,18143,0,0,1,Sprite,1601,Cocktail Ingredients,84499,298458361
+0,180,Añejo,17,1261.31,81932,1,1,1,Midori,1853,Wines,34847,132560340
+1,41,Lime Juice,18,54.53,75229,1,0,0,Captain Morgan,448,Glassware,54839,139806631
+1,195,Añejo,26,415.89,33237,1,1,0,Fever-Tree,2109,Non-alcoholic Spirits,11591,353027536
+0,56,Bitters,17,354.33,66533,0,0,0,Sprite,1191,Pre-mixed Cocktails,84963,376331531
+1,111,Melon Liqueur,16,1144.03,64592,1,0,1,OTHER,1846,Vermouths & Fortified Wines,25819,257457812
+1,153,Crushed Ice,30,492.99,12697,0,1,1,Angostura,1070,Spirits,90075,206583072
+0,52,OTHER,24,487.45,51675,0,0,1,Cointreau,1786,Garnishes,62134,184113628
+1,130,Tequila,34,1013.5,52654,0,1,0,Southern Comfort,3186,Spirits,60131,208070000
+0,99,Triple Sec,32,240.01,63176,0,1,0,Captain Morgan,2181,Syrups & Sweeteners,51644,184017895
+1,33,Sweet Vermouth,15,855.66,61659,1,0,0,Perrier,1079,Mineral & Sparkling Waters,17374,178283977
+1,41,Orange Bitters,48,1068.06,66985,0,1,0,Absolut,1950,Wines,77432,197965287
+1,166,Vodka,19,71.36,52299,1,1,0,OTHER,2548,Vermouths & Fortified Wines,40026,128587134
+0,105,Lemon-Lime Soda,42,1148.41,85019,0,0,1,Disaronno,1995,Spirits,75573,102767781
+1,68,OTHER,19,858.22,21017,0,0,0,Disaronno,309,Bar Tools & Accessories,30542,258665510
+1,19,Fruit Syrup,29,1134.27,89907,0,1,1,Smirnoff,2113,Liqueurs,25796,326375677
+0,175,Cocktail Cherries,44,1093.24,29717,0,1,1,Perrier,1239,Bitters,26846,389711119
+1,138,Crushed Ice,27,663.5,86980,0,1,0,Sprite,59,Syrups & Sweeteners,64777,293022865
+0,69,Dark Rum,38,1257.32,49066,0,1,1,Angostura,2408,Glassware,45386,178995015
+0,71,Gin,22,1054.06,80735,1,1,1,Tanqueray,3072,Bitters,78612,141150516
+0,53,OTHER,38,234.77,76971,1,1,0,OTHER,1361,Juices,89131,194808524
+1,196,Añejo,27,1169.38,40738,0,1,0,Midori,1107,Glassware,36322,149015178
+1,144,Bitters,36,983.21,84127,1,1,0,Grand Marnier,3518,Ice & Chilling Products,79808,303679671
+0,103,Vodka,39,279.99,81170,0,1,1,Midori,479,Ice & Chilling Products,64412,377160301
+0,95,OTHER,42,821.67,33269,1,1,0,San Pellegrino,1498,Glassware,72020,222932687
+1,13,Lemon-Lime Soda,48,1078.83,26429,0,0,0,OTHER,1061,Salt & Rimming Mixes,74690,105313629
+1,66,Herbal Liqueur,31,1109.78,51487,0,0,0,OTHER,1123,Bitters,74138,248607531
+1,63,Bourbon,33,483.35,72095,0,1,1,OTHER,3079,Beers,15868,215749135
+0,9,OTHER,17,1269.56,14949,0,1,0,Chivas Regal,2448,Cocktail Ingredients,66213,393306710
+0,189,Añejo,12,1258.05,53952,0,0,0,Fever-Tree,2958,Pre-mixed Cocktails,54465,186180139
+1,197,Cocktail Cherries,16,597.29,67805,1,1,0,Coca-Cola,1419,Cocktail Ingredients,84055,393233203
+0,72,Melon Liqueur,30,312.13,50601,0,0,1,OTHER,545,Mineral & Sparkling Waters,75347,380222330
+0,19,Salt Rim Mix,15,77.64,24284,1,1,0,Tanqueray,158,Garnishes,75461,354805181
+0,38,Soda,22,723.51,47526,0,1,1,Johnnie Walker,417,Salt & Rimming Mixes,73282,320287055
+0,68,Salt Rim Mix,27,585.31,13131,1,1,0,Midori,2860,Bitters,34029,114191599
+1,40,Vodka,16,737.3,84071,1,0,1,OTHER,2468,Bar Tools & Accessories,39354,383370910
+0,115,Sweet Vermouth,10,305.08,26500,0,0,1,Cointreau,1120,Soft Drinks,97248,259629028
+0,46,Salt Rim Mix,10,116.71,69454,1,1,1,Tanqueray,3056,Juices,29695,341585151
+1,87,Cream Liqueur,27,29.47,20086,1,0,1,Aperol,2079,Pre-mixed Cocktails,43994,150074290
+1,3,Tonic Water,47,220.01,64385,1,0,0,OTHER,2188,Syrups & Sweeteners,91685,168102551
+1,100,OTHER,45,801.02,26989,0,0,1,Captain Morgan,3032,Garnishes,15098,214110549
+0,63,Cream Liqueur,43,1143.76,72624,0,1,1,Schweppes,3554,Vermouths & Fortified Wines,60883,373239447
+0,184,Melon Liqueur,42,237.32,72660,0,1,1,Patrón,53,Salt & Rimming Mixes,84310,313475649
+1,185,OTHER,1,305.74,88050,0,1,1,Jameson,153,Glassware,56966,251126363
+1,33,Grenadine,4,1100,96581,1,0,0,Martini,2929,Wines,76848,378084813
+1,36,Triple Sec,21,126.98,63529,1,0,1,OTHER,2759,Cocktail Ingredients,91987,393632600
+1,170,OTHER,1,1279.59,30360,1,0,0,Rose's,2626,Garnishes,55426,194237311
+1,44,Grenadine,31,1273.01,34112,0,0,1,Don Julio,1228,Soft Drinks,29664,322476503
+0,113,Sparkling Water,8,795.58,27378,0,1,1,Grand Marnier,3075,Glassware,61399,386043933
+0,110,Energy Drink,26,187.39,75033,1,1,1,Coca-Cola,210,Spirits,86333,170078946
+0,77,Coconut Rum,40,857.06,28345,1,0,0,Tanqueray,1827,Non-alcoholic Spirits,88503,228584578
+0,127,OTHER,19,100.71,89293,1,0,1,Campari,1395,Wines,46236,285761245
+0,16,Lemon-Lime Soda,30,50.14,57328,0,1,0,Tanqueray,1391,Soft Drinks,68531,120238664
+1,12,Irish Whiskey,49,617.87,38239,1,0,0,OTHER,612,Bar Tools & Accessories,80052,241402115
+1,68,Crushed Ice,6,437.71,48252,0,0,0,Angostura,1844,Wines,97869,113082292
+0,8,Tonic Water,21,750.61,88757,0,0,1,Perrier,2498,Liqueurs,79437,142562992
+0,199,Triple Sec,45,827.52,21997,1,0,0,Don Julio,389,Garnishes,42185,195855145
+1,104,Fruit Syrup,48,1198.88,18100,1,1,0,Cointreau,459,Vermouths & Fortified Wines,84892,154482089
+0,41,Single Malt Scotch,23,89.42,13775,1,1,1,Cointreau,2150,Liqueurs,21779,381177347
+1,94,Bourbon,28,1197.58,53561,1,0,1,Southern Comfort,695,Energy Drinks,66031,382966995
+1,195,Dry Vermouth,13,747.39,80421,1,1,1,Smirnoff,2459,Salt & Rimming Mixes,95225,176610834
+0,195,Ginger Beer,18,609.67,57879,0,0,0,Absolut,2155,Cocktail Ingredients,47417,352337164
+1,41,Añejo,9,580.61,27238,1,1,1,San Pellegrino,2788,Beers,16437,251200492
