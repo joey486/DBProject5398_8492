@@ -53,13 +53,13 @@
 
 ## 🗺️ תרשים ERD
   
-> ![ERD]("./שלב א/ERD.png")
+> ![ERD](./שלב%20א/ERD.png)
 
 ---
 
 ## 🧾 תרשים DSD
 
-> ![DSD](./שלב א/DSD.png)
+> ![DSD](./שלב%20א/DSD.png)
 > 
 ---
 
@@ -76,24 +76,24 @@
 ## 📥 שיטות הכנסת נתונים
 
 ### שיטה 1: הכנסת נתונים ידנית בקובץ CSV  
-![insert_sql](./Screenshots/CSV.png)
+![insert_sql](./שלב%20א/Screenshots/CSV.png)
 
 ### שיטה 2: יבוא נתונים מקובצי SQL בעזרת mockaroo  
-![csv_import](./Screenshots/mockaroo.png)
+![csv_import](./שלב%20א/Screenshots/mockaroo.png)
 
 ### שיטה 3: יצירת נתונים אוטומטית בפייתון עם `random` ו־`names`  
-![auto_data](./Screenshots/python.png)
+![auto_data](./שלב%20א/Screenshots/python.png)
 
 ---
 
 ## 💾 גיבוי ושחזור נתונים
 
 ### גיבוי נתונים (Dump):
-![backup](./backup2)
-![image](./Screenshots/backup.png)
+![backup](./שלב%20א/backup2)
+![image](./שלב%20א/Screenshots/backup.png)
 
 ### שחזור נתונים (Restore):
-![restore](screenshots/restore_sql_dump.png)
+![restore](שלב%20א/Screenshots/restore_sql_dump.png)
 
 ---
 
