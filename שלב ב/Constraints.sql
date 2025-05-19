@@ -8,4 +8,4 @@ ALTER COLUMN shelf_life SET DEFAULT 12;
 
 -- 3. הוספת אילוץ NOT NULL לשם ספק
 ALTER TABLE supplier
-ALTER COLUMN name SET NOT NULL;
+ALTER COLUMN frequency SET NOT NULL;
